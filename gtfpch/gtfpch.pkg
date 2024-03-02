@@ -9,3 +9,4 @@ f _compile_mata.ado
 f _get_version.ado
 f gtfpch.mata
 f gtfpchcheckupdate.ado
+f lgtfpch.mlib
