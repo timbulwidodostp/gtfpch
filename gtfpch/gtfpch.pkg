@@ -1,0 +1,10 @@
+d 'GTFPCH': Total factor productivity (TFP) with undesirable outputs
+d
+f gtfpch.ado
+f gtfpch.sthlp
+f gtfpch.dta
+ teddf.ado
+f teddf.sthlp
+f _compile_mata.ado
+f _get_version.ado
+f
