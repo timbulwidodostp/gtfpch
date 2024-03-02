@@ -3,8 +3,9 @@ d
 f gtfpch.ado
 f gtfpch.sthlp
 f gtfpch.dta
- teddf.ado
+f teddf.ado
 f teddf.sthlp
 f _compile_mata.ado
 f _get_version.ado
-f
+f gtfpch.mata
+f gtfpchcheckupdate.ado
