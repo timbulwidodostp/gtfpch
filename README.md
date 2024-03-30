@@ -1,5 +1,6 @@
 # gtfpch
 Total factor productivity (TFP) with undesirable outputs Use gtfpch With STATA 18
+https://www.youtube.com/watch?v=28pWurqeUtI
 
 Olah Data Semarang
 
